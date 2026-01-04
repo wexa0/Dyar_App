@@ -1,12 +1,12 @@
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4b4992e3-c5ad-46f6-8291-28e961f23f2f" /> 
-#Dyar – Saudi Heritage Learning & Quiz App
+# Dyar – Saudi Heritage Learning & Quiz App
 
 <img width="1920" height="1080" alt="App Overview Template (1) key" src="https://github.com/user-attachments/assets/391ec18e-1a1f-4030-9963-df889b5a016c" />
 
 
 ---
 
-##🔧 Installation & Running Instructions (macOS required)
+## 🔧 Installation & Running Instructions (macOS required)
 > ⚠️ This is an iOS project built in Xcode and can only run on macOS.
 
 **1. Clone the repo:**
