@@ -13,13 +13,13 @@
 git clone https://github.com/wexa0/Dyar-App.git
 ```
 
-Open in Xcode:
+2. Open in Xcode:
 
 File → Open
 
-Select Dyar.xcodeproj
+3. Select Dyar.xcodeproj
 
-Run the app:
+4. Run the app:
 
 Choose iPhone Simulator or connect your iPhone
 
