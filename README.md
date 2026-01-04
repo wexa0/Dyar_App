@@ -8,12 +8,12 @@
 🔧 Installation & Running Instructions (macOS required)
 > ⚠️ This is an iOS project built in Xcode and can only run on macOS.
 
-1. Clone the repo:
+**1. Clone the repo:**
 ```bash
 git clone https://github.com/wexa0/Dyar-App.git
 ```
 
-2. Open in Xcode:
+*2. Open in Xcode:*
 
 File → Open
 
