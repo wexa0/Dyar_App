@@ -10,7 +10,7 @@
 
 **1. Clone the repo:**
 ```bash
-git clone https://github.com/wexa0/Dyar-App.git
+git clone https://github.com/wexa0/Dyar_App.git
 ```
 
 **2. Open in Xcode:**
